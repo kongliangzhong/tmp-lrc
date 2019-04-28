@@ -1,0 +1,25 @@
+{
+  "name": "lrc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "lrc",
+    "ethereum",
+    "erc20"
+  ],
+  "author": "kongliangzhong",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "bignumber.js": "^8.1.1",
+    "bluebird": "^3.5.3",
+    "line-reader": "^0.4.0",
+    "lodash": "^4.17.11",
+    "request-promise": "^4.2.2",
+    "web3": "^1.0.0-beta.37"
+  }
+}
